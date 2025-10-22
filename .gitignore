@@ -1,0 +1,9 @@
+# Ignore assembly source files
+*.s
+*.S
+*.asm
+*.ASM
+
+# Optional: ignore assembler include files
+# Uncomment the next line if you also want to ignore include files used by assemblers
+# *.inc
